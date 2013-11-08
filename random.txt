@@ -1,0 +1,4 @@
+#include <time.h>
+
+srand(time(0));
+button1.x=rand() % 10;
